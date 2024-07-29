@@ -1,0 +1,9 @@
+
+\
+java:S1700"Rename field "email"(ª«Õìùÿÿÿÿ8íı²î2J$bf1e2236-e47d-4e28-ab69-a43ce4da9ab2
+m	java:S106"+Replace this use of System.out by a logger.(ØÍ’æ8şı²î2J$42066bbf-e059-4746-b2dd-4e92bf223a5a
+r	java:S106$"+Replace this use of System.out by a logger.(ƒ»ÊÑùÿÿÿÿ8ÿı²î2J$388ce260-ff66-4f43-9e8a-1103a14e7fe0
+~
+java:S11176";Rename "password" which hides the field declared at line 9.(«ÒÆ–8ƒş²î2J$f235afd8-910a-4d5a-9d7b-ed5137536b26
+l
+java:S21408")Use "java.util.Random.nextInt()" instead.(Â““í8„ş²î2J$94b1339e-3947-4eec-b8f7-1ddbb4c1f00b
