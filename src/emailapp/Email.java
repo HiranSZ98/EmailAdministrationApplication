@@ -82,6 +82,7 @@ public class Email {
         return alternateEmail;
     }
 
+    //Added git repo
     public String getPassword() {
         return password;
     }
